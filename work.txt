@@ -6,4 +6,9 @@ content 3
 BBBB
 =======
 AAA 
+<<<<<<< HEAD
 >>>>>>> b248ba20792f63fbda15795578943747fd572628
+=======
+
+commit 1
+>>>>>>> 72c741d1bd33ef9cd0dfdced74e58bf2d8cc82b4
