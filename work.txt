@@ -1,14 +1,8 @@
 content 1
 content 2
 content 3
-<<<<<<< HEAD
 
-BBBB
-=======
-AAA 
-<<<<<<< HEAD
->>>>>>> b248ba20792f63fbda15795578943747fd572628
-=======
+BBBBAAA 
 
-commit 1
->>>>>>> 72c741d1bd33ef9cd0dfdced74e58bf2d8cc82b4
+
+사과 -> 과수원 -> 원숭이 
